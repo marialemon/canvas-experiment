@@ -1,1 +1,1 @@
-# canvas-experiment
+# Canvas experimentation - Vanilla JavaScript
